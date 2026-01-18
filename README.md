@@ -1,2 +1,2 @@
 # LearningC
-Esercizi svolti durante lo studio del linguaggio C
+Exercises done while learning C.
