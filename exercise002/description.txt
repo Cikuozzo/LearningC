@@ -1,0 +1,1 @@
+A program that calculate the circumference and the area of a circle given an user inputted radius.
